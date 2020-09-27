@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Sandbox/backcountry/apis/payment-manager-v2" value="PREVIEW" />
+        <entry key="$USER_HOME$/Sandbox/backcountry/apis/picking-manager" value="PREVIEW" />
+        <entry key="$USER_HOME$/Sandbox/backcountry/apis/tax-api" value="PREVIEW" />
+        <entry key="$USER_HOME$/Sandbox/backcountry/apis/wms-api" value="PREVIEW" />
+        <entry key="$USER_HOME$/Sandbox/backcountry/applications/cvp-server" value="PREVIEW" />
+        <entry key="$USER_HOME$/Sandbox/backcountry/libraries/connectship-connector" value="PREVIEW" />
+        <entry key="$USER_HOME$/Sandbox/backcountry/libraries/dto-commons" value="PREVIEW" />
+        <entry key="$USER_HOME$/Sandbox/backcountry/libraries/dto-inventory" value="PREVIEW" />
+        <entry key="$USER_HOME$/Sandbox/backcountry/libraries/dto-packing" value="PREVIEW" />
+        <entry key="$USER_HOME$/Sandbox/backcountry/libraries/dto-payments" value="PREVIEW" />
+        <entry key="$USER_HOME$/Sandbox/backcountry/libraries/dto-picking" value="PREVIEW" />
+        <entry key="$USER_HOME$/Sandbox/backcountry/libraries/dto-shipments" value="PREVIEW" />
+        <entry key="$USER_HOME$/Sandbox/backcountry/libraries/fbe-dto-orders" value="PREVIEW" />
+        <entry key="$USER_HOME$/Sandbox/backcountry/libraries/ffd-service-starter" value="PREVIEW" />
+        <entry key="$USER_HOME$/Sandbox/github/gs-managing-transactions" value="PREVIEW" />
+        <entry key="$USER_HOME$/Sandbox/training/reactive-practice" value="PREVIEW" />
+        <entry key="$USER_HOME$/Sandbox/training/reactive-snap" value="PREVIEW" />
+        <entry key="$USER_HOME$/Sandbox/transient/java-promise" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+</project>
